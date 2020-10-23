@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62f368a7-d08b-4d65-a968-439e16c72656" name="Default Changelist" comment="" />
+    <list default="true" id="62f368a7-d08b-4d65-a968-439e16c72656" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +18,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j8G0wy6uCwdHY6VEgE2MxiausI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.13.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.11.11" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,11 +44,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603178085253</updated>
-      <workItem from="1603178086307" duration="7910000" />
+      <workItem from="1603178086307" duration="17396000" />
+      <workItem from="1603344502018" duration="3489000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="356" width="561" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603343222726">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="675" y="356" width="561" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1603343222726" />
+    <state x="449" y="189" key="SettingsEditor" timestamp="1603344487197">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="449" y="189" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1603344487197" />
   </component>
 </project>
